@@ -20,7 +20,10 @@ https://github.com/BHOOMIREDDYBHARGAVREDDY/project22
 <img width="953" alt="a" src="https://user-images.githubusercontent.com/111232373/203811213-24f2cf6c-7ce6-4dc7-bb18-383e3da88ed6.PNG">
 <img width="932" alt="dd" src="https://user-images.githubusercontent.com/111232373/203811266-5130a56b-6264-46fb-9636-9410a32e06e7.PNG"
      <img width="912" alt="g" src="https://user-images.githubusercontent.com/111232373/203811845-319abb37-a4a3-4816-a98a-f71df2619a0d.PNG">
-
+<img width="924" alt="c" src="https://user-images.githubusercontent.com/111232373/203812128-eb956cf4-1052-40a1-882e-2cc59c540247.PNG">
+<img width="906" alt="d" src="https://user-images.githubusercontent.com/111232373/203812143-91484c25-36a5-48e4-bce7-9ccdad2ce406.PNG">
+<img width="948" alt="h" src="https://user-images.githubusercontent.com/111232373/203812269-83cf8c0d-b59e-4e39-814d-957ee3086fc6.PNG">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 
 
 
