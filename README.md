@@ -16,12 +16,11 @@ https://nice-forest-05fcab100.2.azurestaticapps.net
 https://github.com/BHOOMIREDDYBHARGAVREDDY/project22
 # Project Demo Video URL
 
-# Snapshot of Website
-![Upload<img width="923" alt="e" src="https://user-images.githubusercontent.com/111232373/203810542-a437ae66-f8a8-45c0-9bed-d65eb562ea09.PNG">
-ing d.PNG…]()
-<img width="878" alt="f" src="https://user-images.githubusercontent.com/111232373/203810550-50eb5c5a-8c91-44aa-95bf-6f5e16d9413b.PNG">
-<img width="912" alt="g" src="https://user-images.githubusercontent.com/111232373/203810559-dc41e470-bb44-489c-ac5d-abe92a2cc899.PNG">
-![Uploa![Uploading a.PNG…]()
-ding h.PNG…]()
-<img width="903" alt="b" src="https://user-images.githubusercontent.com/111232373/203810611-a1649ef7-25c5-4ea5-a274-3ccd1ac5cd7c.PNG">
+# Snapshot of Websit
+<img width="953" alt="a" src="https://user-images.githubusercontent.com/111232373/203811213-24f2cf6c-7ce6-4dc7-bb18-383e3da88ed6.PNG">
+![Upload![Uploading g.PNG…]()
+ing c.PNG…]()
+<img width="932" alt="dd" src="https://user-images.githubusercontent.com/111232373/203811266-5130a56b-6264-46fb-9636-9410a32e06e7.PNG">
+
+
 
