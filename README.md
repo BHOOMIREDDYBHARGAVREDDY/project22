@@ -21,6 +21,5 @@ https://youtu.be/mj_8FEwc0yg
 <img width="932" alt="dd" src="https://user-images.githubusercontent.com/111232373/203811266-5130a56b-6264-46fb-9636-9410a32e06e7.PNG"
 <img width="912" alt="g" src="https://user-images.githubusercontent.com/111232373/203811845-319abb37-a4a3-4816-a98a-f71df2619a0d.PNG">
 <img width="924" alt="c" src="https://user-images.githubusercontent.com/111232373/203812128-eb956cf4-1052-40a1-882e-2cc59c540247.PNG">
-<img width="906" alt="d" src="https://user-<img width="658" alt="anvi-ra" src="https://user-images.githubusercontent.com/111232373/213190672-a76740fc-3fef-454e-8669-f97c926d1a7a.PNG">
 <img width="658" alt="anvi-ra" src="https://user-images.githubusercontent.com/111232373/213191058-7c6d0c6e-609c-4e2e-a2eb-7072874c3b30.PNG">
 
