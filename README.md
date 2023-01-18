@@ -23,4 +23,4 @@ https://youtu.be/mj_8FEwc0yg
 <img width="924" alt="c" src="https://user-images.githubusercontent.com/111232373/203812128-eb956cf4-1052-40a1-882e-2cc59c540247.PNG">
 <img width="906" alt="d" src="https://user-images.githubusercontent.com/111232373/203812143-91484c25-36a5-48e4-bce7-9ccdad2ce406.PNG">
 <img width="948" alt="h" src="https://user-images.githubusercontent.com/111232373/203812269-83cf8c0d-b59e-4e39-814d-957ee3086fc6.PNG">
-![Screenshot (133)](https://user-images.githubusercontent.com/111232373/213186987-d1547f6b-4cba-4b4f-8423-99dd755bd21a.png)
+<img width="940" alt="s" src="https://user-images.githubusercontent.com/111232373/213186987-d1547f6b-4cba-4b4f-8423-99dd755bd21a.PNG">
