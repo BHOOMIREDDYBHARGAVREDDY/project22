@@ -17,7 +17,7 @@ https://github.com/BHOOMIREDDYBHARGAVREDDY/project22
 # Project Demo Video URL
 https://youtu.be/mj_8FEwc0yg
 # Screenshot of Website
-<img width="953" alt="a" src="https://user-images.githubusercontent.com/111232373/203811213-24f2cf6c-7ce6-4dc7-bb18-383e3da88ed6.PNG">
+<img width="947" alt="anvi-rak" src="https://user-images.githubusercontent.com/111232373/213192243-8387a3c1-4244-4990-a465-efa977365d23.PNG">
 <img width="932" alt="dd" src="https://user-images.githubusercontent.com/111232373/203811266-5130a56b-6264-46fb-9636-9410a32e06e7.PNG"
 <img width="912" alt="g" src="https://user-images.githubusercontent.com/111232373/203811845-319abb37-a4a3-4816-a98a-f71df2619a0d.PNG">
 <img width="924" alt="c" src="https://user-images.githubusercontent.com/111232373/203812128-eb956cf4-1052-40a1-882e-2cc59c540247.PNG">
